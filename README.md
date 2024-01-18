@@ -43,6 +43,3 @@ El uso de Flexbox va a ser crucial en este caso.
 Extra points:
 - Funcionalidades que generan animaciones y permiten escuchar fragmentos
 de audio.
-
-<img src="./imgs/Bootstrap_logo.svg.png">  
-![!\[Alt text\](imgs/)](imgs/css.png)
