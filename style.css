@@ -18,7 +18,7 @@ body {
 .screen-border{
     width:80%;
     height:50%;
-    background-color: rgb(110,110,110);
+    background-color: #6e6e6e;
     position: absolute;
     top:30px;
     left:25px;
