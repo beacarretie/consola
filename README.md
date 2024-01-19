@@ -3,7 +3,6 @@
 <details>
   <summary>Contenido 📝</summary>
   <ol>
-    <li><a href="">Objetivo</a></li>
     <li><a href="index.html">GAME BOY</a></li>
 </ol>
 </details>
@@ -30,7 +29,6 @@ botón de reseteo volverá a mostrar la imagen inicial mientras que el botón de
 apagará o encenderá el sistema.
 
 ## Vista
-GAME BOY
 <a href="index.html">GAME BOY</a> 
 
 ## Tecologías
