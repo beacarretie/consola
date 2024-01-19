@@ -1,7 +1,9 @@
 body {
     background-image: url("./imgs/background-nintendo.jpeg");
     background-size:cover;
+    display: flex;
 }
+
 .gameBoy{
     width: 250px;
     height: 380px;
@@ -15,6 +17,7 @@ body {
     border-bottom-left-radius: 25px;
     box-shadow:3px 5px 5px rgba(0,0,0,0.4);
 }
+
 .screen-border{
     width:80%;
     height:50%;
@@ -23,8 +26,8 @@ body {
     top:30px;
     left:25px;
     border-radius:5%;
-
 }
+
 .line-red{
     width:90%;
     height:2px;
@@ -32,6 +35,7 @@ body {
     margin: 0 auto;
     margin-top:8px;   
 }
+
 .screen{
     width: 65%;
     height: 85%;
@@ -40,6 +44,7 @@ body {
     top:10%;
     left:20%;
 }
+
 .power{
     width: 10px;
     height: 10px;
@@ -49,6 +54,7 @@ body {
     top:45px;
     left:7%;
 }
+
 .logo{
     position:absolute;
     top:60%;
@@ -56,18 +62,21 @@ body {
     width: 100%;
     color: rgb(0, 0, 0);
 }
+
 .nintendo{
     float: left;
     font-weight: bolder;
     font-size: 10px;
     line-height: 26px;
 }
+
 .gb{
     float:left;
     font-style: italic;
     text-transform: uppercase;
     font-weight:bolder;
 }
+
 .d-pad{
     width: 50px;
     height: 50px;
@@ -77,6 +86,7 @@ body {
     left: 10%;
     border-radius: 50px;    
 }
+
 .d-y{
     width: 13px;
     height: 40px;
@@ -87,6 +97,7 @@ body {
     transform: translate(-50%,-50%);
     border-radius: 3px;
 }
+
 .d-x{
     width: 40px;
     height: 13px;
@@ -97,6 +108,7 @@ body {
     transform: translate(-50%,-50%);
     border-radius: 3px;
 }
+
 .buttons{
     width:30px;
     height: 70px;
@@ -108,6 +120,7 @@ body {
     transform: rotate(55deg);
     border-radius: 15px;
 }
+
 .b-a{
     width: 22px;
     height: 22px;
@@ -118,6 +131,7 @@ body {
     left:5px;
     box-shadow: 2px 2px 2px rgba(0,0,0,0.4)
 }
+
 .b-b{
         width: 22px;
         height: 22px;
@@ -128,6 +142,7 @@ body {
         left:5px;
         box-shadow: 2px 2px 2px rgba(0,0,0,0.4)
 }
+
 .buttons_s{
     width: 40px;
     height: 30px;
@@ -135,6 +150,7 @@ body {
     top: 90%;
     left: 40%;
 }
+
 .start{
     width: 7px;
     height: 20px;
@@ -143,6 +159,7 @@ body {
     transform:rotate(50deg);
     box-shadow: 1px 1px 1px 2px rgba(0,0,0,0.2);
 }
+
 .select{
     width: 7px;
     height: 20px;

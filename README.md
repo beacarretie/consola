@@ -31,7 +31,7 @@ apagará o encenderá el sistema.
 
 ## Vista
 GAME BOY
-<img src="index.html">  
+<a href="index.html">GAME BOY</a> 
 
 ## Tecologías
 Para ello utilizaremos las siguientes tecnologías:

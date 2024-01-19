@@ -32,8 +32,8 @@ function restartConsole(){
 
 function imagePlus(){
     if(window.currentImage <= 2 && window.consolePower === "on"){
-        window.currentImage++
         document.getElementById("screen").src = images[window.currentImage]
+        window.currentImage++
     }
 }
 
