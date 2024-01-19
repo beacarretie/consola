@@ -3,6 +3,12 @@ body {
     background-size:cover;
     display: flex;
 }
+.container-fluid{
+    height: 100vh;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+}
 
 .gameBoy{
     width: 250px;
